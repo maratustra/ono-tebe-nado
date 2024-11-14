@@ -24,6 +24,7 @@
 
 .nav__item--active {
   list-style: none;
+  text-decoration: none;
 }
 
 .nav__item:nth-child(1) {
@@ -55,10 +56,6 @@
 
 .header__address a {
   text-decoration: underline;
-}
-
-.nav__item--active {
-  text-decoration: none;
 }
 
 .main {
